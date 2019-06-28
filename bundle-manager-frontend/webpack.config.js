@@ -6,9 +6,7 @@ const PATHS = {
 
 module.exports = {
     entry: './src/index.js',
-    devtool: 'sourcemaps',
-    cache: true,
-    mode: 'development',
+    mode: 'production',
     output: {
         path: PATHS.build,
         filename: 'bundle.js'
