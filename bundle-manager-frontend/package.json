@@ -25,7 +25,6 @@
     "webpack-cli": "^3.3.5"
   },
   "scripts": {
-    "watch": "webpack --watch -d",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
